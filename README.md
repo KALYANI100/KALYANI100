@@ -165,13 +165,6 @@ I'm particularly interested in building systems where **AI meets scalable softwa
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=KALYANI100&show_icons=true&theme=tokyonight&hide_border=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KALYANI100&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
 **💡 Build. Learn. Solve. Repeat.**
 
 Thanks for visiting my profile! 🚀
