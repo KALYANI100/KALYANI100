@@ -170,7 +170,7 @@ I'm particularly interested in building systems where **AI meets scalable softwa
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=KALYANI100&show_icons=true&theme=tokyonight&hide_border=true)
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KALYANI100&layout=compact&theme=tokyonight&hide_border=true)
 
-![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=KALYANI100&theme=tokyonight&hide_border=true)
+![GitHub streak](https://streak-stats.demolab.com/?user=KALYANI100&theme=tokyonight&hide_border=true)
 
 ---
 
